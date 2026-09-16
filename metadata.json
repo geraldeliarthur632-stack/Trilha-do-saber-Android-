@@ -1,0 +1,8 @@
+{
+  "name": "Trilha do Saber",
+  "description": "Aplicativo Android nativo para aprendizagem escolar, com jornada gamificada, estudo personalizado, competição local, ranking e perfil do estudante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
